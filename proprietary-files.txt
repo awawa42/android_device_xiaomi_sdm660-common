@@ -211,7 +211,6 @@ vendor/lib64/vendor.qti.gnss@2.1.so|a395bb7d4df874c0e0efadf8ef51d3510afedad3
 vendor/lib64/vendor.qti.gnss@3.0-service.so|947bfafbf110d70656f434ab5845b6691b6b61c1
 vendor/lib64/vendor.qti.gnss@3.0.so|ff1733d10abd97fa4381c798ae74b4cc5dac39e8
 
-# Graphics - from S62Pro
 vendor/lib/egl/eglSubDriverAndroid.so|28b215e408ee67c14ef9e9aaf5e4e4ed0a1ac7ff
 vendor/lib/egl/libEGL_adreno.so|5611a6caa50562757d812553642a0a45fcc12668
 vendor/lib/egl/libGLESv1_CM_adreno.so|446279f43811de885507bdd3d6491da8f0cfd26d
